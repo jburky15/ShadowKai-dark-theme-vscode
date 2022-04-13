@@ -1,6 +1,7 @@
 {
     "name": "shadowkai-dark",
     "displayName": "ShadowKai Dark",
+    "icon": "icon/icon.png",
     "description": "A dark theme in my preffered color scheme. Probably not safe for public consumption.",
     "version": "1.0.0",
     "publisher": "ShadowKai",
